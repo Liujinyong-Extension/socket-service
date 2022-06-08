@@ -1,0 +1,17 @@
+{
+    "name": "liujinyong\/socket-service",
+    "description": "base on phpsocketio",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liujinyong",
+            "email": "893296814@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Liujinyong\\SocketService\\": "src"
+        }
+    }
+}
